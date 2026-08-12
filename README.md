@@ -9,13 +9,13 @@ An IEEE 802.3 Channel Operating Margin (COM) and ERL calculator with a PyQt6 GUI
 **本仓库不含软件本体** —— 这是商业软件，源码不公开，仓库只作说明与下载入口。
 This repository does **not** ship the software itself; it is a landing page pointing at the download site.
 
-### ⬇️ [COM_dist_v1_6_0.zip](http://106.14.76.130/COM/1.6.0/COM_dist_v1_6_0.zip)
+### ⬇️ [COM_dist_v1_7_1.zip](http://106.14.76.130/COM/1.7.1/COM_dist_v1_7_1.zip)
 
 | 版本 Version | 大小 Size | 发布 Released |
 |---|---|---|
-| v1.6.0 | 207.4 MB | 2026-07-14 |
+| v1.7.1 | 245.5 MB | 2026-08-12 |
 
-SHA-256　`bd179802124d4aa0f675cfd4686bfeb4137d2d3a170798fc4968c09e2da360a7`
+SHA-256　`8f5e6e22b9809901c75279ee7ad4d5c28fdc240cd4857a3f7de7f04504e2b2e7`
 
 下载站首页（全部工具）/ All tools: http://106.14.76.130
 
