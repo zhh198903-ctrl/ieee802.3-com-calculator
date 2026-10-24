@@ -2,7 +2,7 @@
 
 # COM Calculator
 
-> IEEE 802.3 link margin, without a full MATLAB license
+> IEEE 802.3 COM / ERL, without a full MATLAB license
 
 An IEEE 802.3 Channel Operating Margin (COM) and ERL calculator with a PyQt6 GUI, SCPI remote control and multi-vendor VNA integration. It wraps the official IEEE 802.3 COM MATLAB script: drop in a .s4p channel file, pick the standard and data rate, and get COM / ERL figures plus a PDF report. 109 IEEE parameters are editable in the GUI and cases run in parallel. Runs on MATLAB Runtime — a full MATLAB license is not required.
 
@@ -10,11 +10,13 @@ An IEEE 802.3 Channel Operating Margin (COM) and ERL calculator with a PyQt6 GUI
 
 **This repository does not ship the software itself.** It is a commercial product with closed source; this repo is only a description and download entry.
 
-### ⬇️ [COM_dist_v1_7_8.zip](http://106.14.76.130/COM/1.7.8/COM_dist_v1_7_8.zip)
+### ⬇️ [COM_dist_v1_7_9.zip](http://106.14.76.130/COM/1.7.9/COM_dist_v1_7_9.zip)
 
 | Version | Size | Released |
 |---|---|---|
-| v1.7.8 | 245.9 MB | 2026-08-20 |
+| v1.7.9 | 224.2 MB | 2026-10-24 |
+
+SHA-256　`9a44e7e687de562bb6bfce107ba7182999e6803d8ad211057d005d1f7a8ba8e4`
 
 All tools: http://106.14.76.130
 
@@ -30,7 +32,7 @@ This software is proprietary; the source code is not published.
 
 ## ✨ Features
 
-`IEEE 802.3` · `COM / ERL` · `SCPI remote` · `VNA integration`
+`IEEE 802.3` · `COM / ERL` · `PDF report` · `VNA integration` · `SCPI remote`
 
 ## 📋 Specifications
 
