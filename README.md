@@ -2,19 +2,21 @@
 
 # COM Tool
 
-> 算 802.3 链路余量，不用装 MATLAB 完整版
+> IEEE 802.3 COM / ERL 计算，不用装 MATLAB 完整版
 
-把 IEEE 802.3 官方 COM 脚本包成了带界面的工具。丢进 .s4p 通道文件，选好标准和数据率，出 COM / ERL 数值和 PDF 报告。109 个 IEEE 参数可以在界面里直接改，多个 case 并行跑。装 MATLAB Runtime 就行，不需要 MATLAB 完整版。
+把 IEEE 802.3 官方 COM 脚本（v4.14）包成桌面工具：导入 .s4p 通道，选标准和数据率，出 COM / ERL 结果和 PDF 报告。参数可在界面里逐项改，多个 case 并行计算；可联机 Keysight / R&S / Anritsu 矢网直接采集 S 参数，也支持 SCPI 远程控制。只需 MATLAB Runtime。
 
 ## 📥 下载
 
 **本仓库不含软件本体。** 这是商业软件，源码不公开，仓库只作说明与下载入口。
 
-### ⬇️ [COM_dist_v1_7_8.zip](http://106.14.76.130/COM/1.7.8/COM_dist_v1_7_8.zip)
+### ⬇️ [COM_dist_v1_7_9.zip](http://106.14.76.130/COM/1.7.9/COM_dist_v1_7_9.zip)
 
 | 版本 | 大小 | 发布日期 |
 |---|---|---|
-| v1.7.8 | 245.9 MB | 2026-08-20 |
+| v1.7.9 | 224.2 MB | 2026-10-24 |
+
+SHA-256　`9a44e7e687de562bb6bfce107ba7182999e6803d8ad211057d005d1f7a8ba8e4`
 
 下载站首页（全部工具）：http://106.14.76.130
 
@@ -30,7 +32,7 @@
 
 ## ✨ 功能
 
-`IEEE 802.3` · `COM / ERL` · `SCPI 远程` · `VNA 联机`
+`IEEE 802.3` · `COM / ERL` · `PDF 报告` · `VNA 联机` · `SCPI 远程`
 
 ## 📋 技术规格
 
